@@ -80,8 +80,8 @@ class Game extends Pane{
     
     public void perdeu() {
         Alert wl = new Alert(AlertType.INFORMATION);
-        wl.setTitle("YOU LOOSE!");
-        wl.setHeaderText("YOU LOOSE");
+        wl.setTitle("YOU LOSE!");
+        wl.setHeaderText("YOU LOSE");
         wl.setContentText("Você perdeu, deseja jogar novamente");
         wl.getButtonTypes().clear();
         wl.getButtonTypes().add(ButtonType.YES);
