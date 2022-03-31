@@ -4,7 +4,7 @@
 
 Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a disciplina de Ferramentas computacionais I em que foi aplicado os primeiros conceitos absorvidos em Java com POO.
 
-<img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/main/doc/game.gif">
+<img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/game.gif">
 
 ## Funcionalidades 🌟
 
@@ -17,7 +17,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     - Difícil 
     - Impossível
     
-    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/main/doc/dificuldades.png">
+    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/dificuldades.png">
     <p style="margin-top: 15px"> </p>
 
 - [x] ``Seleção de controles``
@@ -25,7 +25,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     
     É possível escolher os controles para controlar a raquete, podendo selecionar entre mouse e teclado.
     
-    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/main/doc/controles.png">
+    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/controles.png">
     <p style="margin-top: 15px"> </p>
 
 - [x] ``Pause``
@@ -33,7 +33,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     
     É possível pausar o jogo podendo escolher sair do jogo
     
-    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/main/doc/pause.png">
+    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/pause.png">
     <p style="margin-top: 15px"> </p>
 
 - [x] ``Diferentes tipos de blocos``
@@ -49,7 +49,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     - Azul:
         O bloco azul dá 60 pontos quando eliminado pela bola e 40 ponstos quando eliminado pela raquete, quando a bola o toca começa a descer. O jogador perde uma vida se o bloco tocar o "chão".
 
-    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/main/doc/blocos.png">
+    <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/blocos.png">
 
 ## License 📝
 
