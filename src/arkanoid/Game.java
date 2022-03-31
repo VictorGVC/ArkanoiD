@@ -214,6 +214,15 @@ class Game extends Pane{
                 case "Optional[impossível]":
                     dificuldade = 20;
                 break;
+                default:
+                    conf= new Alert(AlertType.INFORMATION);
+                    conf.setTitle("Alerta!");
+                    conf.setContentText("Como não foi escolhida nenhuma "
+                        + "dificuldade por padrão irá jogar na "
+                        + "dificuldade (normal) ");
+                    
+                    conf.showAndWait();
+                    dificuldade = 7;   
             }
         }
         else
