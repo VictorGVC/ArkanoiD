@@ -8,7 +8,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
 
 ## Funcionalidades 🌟
 
-- [x] ``Seleção de dificuldade``
+- ### ``Seleção de dificuldade``
     <p style="margin-top: 15px"> </p>
     
     É possível escolher a dificuldade em que o jogo irá iniciar, dentre as dificuldades estão: 
@@ -20,7 +20,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/dificuldades.png">
     <p style="margin-top: 15px"> </p>
 
-- [x] ``Seleção de controles``
+- ### ``Seleção de controles``
     <p style="margin-top: 15px"> </p>
     
     É possível escolher os controles para controlar a raquete, podendo selecionar entre mouse e teclado.
@@ -28,7 +28,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/controles.png">
     <p style="margin-top: 15px"> </p>
 
-- [x] ``Pause``
+- ### ``Pause``
     <p style="margin-top: 15px"> </p>
     
     É possível pausar o jogo podendo escolher sair do jogo
@@ -36,7 +36,7 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
     <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/pause.png">
     <p style="margin-top: 15px"> </p>
 
-- [x] ``Diferentes tipos de blocos``
+- ### ``Diferentes tipos de blocos``
     <p style="margin-top: 15px"> </p>
 
     Existem três tipos de blocos, sendo:
@@ -50,6 +50,14 @@ Essa projeto é uma cópia do famoso jogo arkanoid, feito em Java para a discipl
         O bloco azul dá 60 pontos quando eliminado pela bola e 40 ponstos quando eliminado pela raquete, quando a bola o toca começa a descer. O jogador perde uma vida se o bloco tocar o "chão".
 
     <img align="center" src="https://github.com/VictorGVC/ArkanoiD/blob/master/doc/blocos.png">
+
+## Como jogar 🎮
+
+https://github.com/VictorGVC/ArkanoiD/releases/tag/1.0
+
+Para jogar acesse o link acima, baixe o arquivo arkanoid.jar e execute, have fun! 😉
+
+OBS: é necessário ter Java 8 ou superior instalado
 
 ## License 📝
 
